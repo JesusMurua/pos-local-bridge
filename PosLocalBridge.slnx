@@ -1,3 +1,11 @@
 <Solution>
+  <Project Path="PosLocalBridge.Contracts/PosLocalBridge.Contracts.csproj" />
+  <Project Path="PosLocalBridge.Hardware.AccessControl/PosLocalBridge.Hardware.AccessControl.csproj" />
+  <Project Path="PosLocalBridge.Hardware.Biometrics/PosLocalBridge.Hardware.Biometrics.csproj" />
+  <Project Path="PosLocalBridge.Hardware.Printers/PosLocalBridge.Hardware.Printers.csproj" />
+  <Project Path="PosLocalBridge.Hardware.SerialInput/PosLocalBridge.Hardware.SerialInput.csproj" />
   <Project Path="PosLocalBridge.Host/PosLocalBridge.Host.csproj" />
+  <Project Path="PosLocalBridge.Security/PosLocalBridge.Security.csproj" />
+  <Project Path="PosLocalBridge.Tests/PosLocalBridge.Tests.csproj" />
+  <Project Path="PosLocalBridge.Transport/PosLocalBridge.Transport.csproj" />
 </Solution>
